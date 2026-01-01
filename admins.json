@@ -1,8 +1,8 @@
 {
   "admins": [
     {
-      "username": "admin1",
-      "password": "adminpass1",
+      "username": "PretyFX",
+      "password": "67",
       "role": "Admin",
       "duration": "9999-12-01",
       "telegramBuyer": "",
