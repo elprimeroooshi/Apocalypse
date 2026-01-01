@@ -1,0 +1,20 @@
+{
+  "resellers": [
+    {
+      "username": "reseller1",
+      "password": "resellerpass1",
+      "role": "Reseller",
+      "duration": "30d",
+      "telegramBuyer": "@buyer1",
+      "telegramReseller": "@reseller1"
+    },
+    {
+      "username": "reseller2",
+      "password": "resellerpass2",
+      "role": "Reseller",
+      "duration": "1y",
+      "telegramBuyer": "@buyer2",
+      "telegramReseller": "@reseller2"
+    }
+  ]
+}
